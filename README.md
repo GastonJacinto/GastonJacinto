@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gastonjacinto/**
 
-- 📄 Know about my experiences: [I'm working for CLUB ADIP with a team, developing the page that they will use in the future. It's actually done, so you can see it in the link above.](I'm working for CLUB ADIP with a team, developing the page that they will use in the future. It's actually done, so you can see it in the link above.)
+- 📄 Know about my experiences: I'm working for CLUB ADIP with a team, developing the page that they will use in the future. It's actually done, so you can see it in the link above.
 
 - ⚡ Facts about me 👌 **I love doing tasks that demands to investigate and put a lot of my attention, I love reading documentation to learn some new tech skills or new technologies, and this is because I'm so good at investigating, as I said, I learn fast 😉**
 
