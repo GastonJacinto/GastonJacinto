@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gastonjacinto&label=Profile%20views&color=0e75b6&style=flat" alt="gastonjacinto" /> </p>
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-- 🔭 I’m currently working on [CLUB ADIP](https://front-deploy-adipweb.onrender.com)
+- 🔭 I’m currently working on in a project for [CLUB ADIP](https://front-deploy-adipweb.onrender.com)
 
 - 🌱 I’m currently learning **Next.js 13, TypeScript and Nest.js**
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: [I'm working for CLUB ADIP with a team, developing the page that they will use in the future. It's actually done, so you can see it in the link above.](I'm working for CLUB ADIP with a team, developing the page that they will use in the future. It's actually done, so you can see it in the link above.)
 
-- ⚡ Facts about me 👌 **I love doing tasks that demands to investigate and put a lot of my attention, I love reading documentation to learn some new tech skils or new technologies, and this is because I'm so good at investigating, as I said, I learn fast 😉**
+- ⚡ Facts about me 👌 **I love doing tasks that demands to investigate and put a lot of my attention, I love reading documentation to learn some new tech skills or new technologies, and this is because I'm so good at investigating, as I said, I learn fast 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
