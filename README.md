@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/gastonjacinto/**
 
-- 📄 Know about my experiences: I have worked for several startups located across the continent, from a health and wellness startup called FisiumFulnes based in Lima, Peru, to a software startup called Spark&Co based in Toronto, Canada, where I currently work as a React Developer, using Next.js, TypeScript, and Supabase. I have implemented cutting-edge features such as digital signature services, identity verification, payment platforms, and more.](I have worked for several startups located across the continent, from a health and wellness startup called FisiumFulnes based in Lima, Peru, to a software startup called Spark&Co based in Toronto, Canada, where I currently work as a React Developer, using Next.js, TypeScript, and Supabase. I have implemented cutting-edge features such as digital signature services, identity verification, payment platforms, and more.
+- 📄 Know about my experiences: I have worked for several startups located across the continent, from a health and wellness startup called FisiumFulnes based in Lima, Peru, to a software startup called Spark&Co based in Toronto, Canada, where I currently work as a React Developer, using Next.js, TypeScript, and Supabase. I have implemented cutting-edge features such as digital signature services, identity verification, payment platforms, and more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
